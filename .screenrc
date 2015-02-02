@@ -1,0 +1,7 @@
+shell -$SHELL
+
+termcapinfo xterm ti@:te@
+
+defscrollback 50000
+
+altscreen on
